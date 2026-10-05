@@ -1,0 +1,10 @@
+UNIT 2 LMS SUBMISSION CHECKLIST
+
+[ ] Run library_system.py in VS Code
+[ ] Take 2-4 screenshots of working output
+[ ] Upload project folder to GitHub
+[ ] Paste GitHub URL into documentation
+[ ] Save documentation
+[ ] Upload Unit2_Smart_Library_Management.zip to LMS
+[ ] Add LMS comment
+[ ] Click Submit
